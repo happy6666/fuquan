@@ -141,7 +141,6 @@ public class Fuquan
 			{
 				if (i == 0)
 				{
-
 					break;
 				}
 			}
